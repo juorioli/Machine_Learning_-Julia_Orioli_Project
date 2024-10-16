@@ -1,4 +1,10 @@
 # Projeto_Final_-machine_learning
+## Este repositório contém a análise das viagens transatlânticas de escravizados e o uso de machine learning para prever mortes e o sucesso das viagens.
+
+Para visualizar o notebook com mapas interativos, clique no link abaixo:
+
+https://nbviewer.org/github/juorioli/Machine_Learning_Julia_Orioli_Project/blob/main/Projeto%20%20Final-JuliaOrioli.ipynb
+
 # Análise de Viagens Transatlânticas de Escravizados e Modelagem Preditiva
 
 ## Descrição do Projeto
